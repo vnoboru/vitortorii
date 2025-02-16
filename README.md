@@ -3,6 +3,9 @@ Sou um desenvolvedor de automações especializado em Access, SolidWorks e Softw
 
 Minha abordagem é sempre focada em integrar sistemas, melhorar a eficiência e gerar resultados concretos. Com um perfil analítico, busco constantemente soluções inovadoras que impactem positivamente os projetos e processos em que estou envolvido.
 
+# 📈 Experiência
+Trabalhei em diversos projetos voltados para automação de processos, desde a criação de scripts que economizam tempo no ambiente de trabalho até o desenvolvimento de sistemas completos para empresas. Meu foco sempre foi a eficiência e a integração de sistemas, com a busca constante pela otimização de resultados.
+
 # 🛠️ Ferramentas e Tecnologias
 ### Linguagens e Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,10 +31,6 @@ Minha abordagem é sempre focada em integrar sistemas, melhorar a eficiência e 
 ### ERP e Gestão Empresarial
 ![SAP](https://img.shields.io/badge/SAP-%2300008F.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![WK Radar](https://img.shields.io/badge/WK%20Radar-%23007BFF.svg?style=for-the-badge&logo=business&logoColor=white)
-
-
-# 📈 Experiência
-Trabalhei em diversos projetos voltados para automação de processos, desde a criação de scripts que economizam tempo no ambiente de trabalho até o desenvolvimento de sistemas completos para empresas. Meu foco sempre foi a eficiência e a integração de sistemas, com a busca constante pela otimização de resultados.
 
 # 📫 Contato
 <div>
