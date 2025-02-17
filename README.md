@@ -11,8 +11,11 @@ Trabalhei em diversos projetos voltados para automação de processos, desde a c
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### Automação e Scripting
 ![VBA](https://img.shields.io/badge/VBA-%236B42BC.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -21,7 +24,7 @@ Trabalhei em diversos projetos voltados para automação de processos, desde a c
 
 ### Modelagem 2D e 3D
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23E2231A.svg?style=for-the-badge&logo=solidworks&logoColor=white)
-![Software CREO](https://img.shields.io/badge/CREO-%2300A550.svg?style=for-the-badge&logo=ptc&logoColor=white)
+![PTC CREO](https://img.shields.io/badge/CREO-%2300A550.svg?style=for-the-badge&logo=ptc&logoColor=white)
 
 ### Bancos de Dados e Ferramentas
 ![SQL](https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -32,7 +35,8 @@ Trabalhei em diversos projetos voltados para automação de processos, desde a c
 ![SAP](https://img.shields.io/badge/SAP-%2300008F.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![WK Radar](https://img.shields.io/badge/WK%20Radar-%23007BFF.svg?style=for-the-badge&logo=business&logoColor=white)
 
-# 📫 Contato
 <div>
-  <a href="linkedin.com/in/vitortorii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitortorii" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
