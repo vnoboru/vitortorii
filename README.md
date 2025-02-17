@@ -29,12 +29,13 @@ Trabalhei em diversos projetos voltados para automação de processos, desde a c
 ### Bancos de Dados e Ferramentas
 ![SQL](https://img.shields.io/badge/SQL-%230052CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/MS%20Access-%23A4373A.svg?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MS%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ERP e Gestão Empresarial
 ![SAP](https://img.shields.io/badge/SAP-%2300008F.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![WK Radar](https://img.shields.io/badge/WK%20Radar-%23007BFF.svg?style=for-the-badge&logo=business&logoColor=white)
 
+# 📫 Contato
 <div>
   <a href="https://www.linkedin.com/in/vitortorii" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
